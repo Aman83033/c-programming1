@@ -2,8 +2,8 @@
 int main()
 {
 	int row,col,sum=0,x[3][3];
-	printf("enter the elements for matrix");
-	printf("\n");
+	printf("enter the elements for matrix :\n");
+
    for(row=0;row<3;row++)
    {
    	for(col=0;col<3;col++)
